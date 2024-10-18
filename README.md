@@ -64,9 +64,8 @@ Once the application starts, you will have access to the following features:
 ```
 CRUD-Budget-CLI-App/
 │
-├── app.py                    # Main program file to run the CLI app
-├── budget.py                 # Logic for CRUD operations on the budget
-├── requirements.txt          # Python dependencies for the project
+├── main.py                    # Main program file to run the CLI app
+├── DBFunctions.py                 # Logic for CRUD operations on the budget
 └── README.md                 # Project README file
 ```
 
