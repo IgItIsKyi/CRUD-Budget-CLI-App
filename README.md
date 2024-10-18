@@ -40,7 +40,7 @@ Ensure you have Python installed on your machine. You can download it from [here
 After installing dependencies, run the app using the following command:
 
 ```bash
-python app.py
+python main.py
 ```
 
 You will then be able to interact with the CLI to manage your budget.
